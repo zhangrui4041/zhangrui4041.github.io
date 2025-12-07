@@ -10,6 +10,15 @@ author_profile: true
 
 My publication list can also be found at [Google Scholar](https://scholar.google.com/citations?user=bbTc65MAAAAJ&hl=en).
 
+
+1. **MPMA: Preference Manipulation Attack Against Model Context Protocol**  
+   *Zihan Wang, **Rui Zhang**, Yu Liu, Wenshu Fan, Wenbo Jiang, Qingchuan Zhao, Hongwei Li, Guowen Xu*  
+   AAAI Conference on Artificial Intelligence (AAAI), 2026, Oral.
+
+1. **ConfGuard: A Simple and Effective Backdoor Detection for Large Language Models**  
+   *Zihan Wang, **Rui Zhang**, Hongwei Li, Wenshu Fan, Wenbo Jiang, Qingchuan Zhao, Guowen Xu*  
+   AAAI Conference on Artificial Intelligence (AAAI), 2026, Poster.
+
 1. **Evaluating Robustness of Large Audio Language Models to Audio Injection: An Empirical Study**  
    *Guanyu Hou, Jiaming He, Yinhang Zhou, Ji Guo, Yitong Qiao, **Rui Zhang**, Wenbo Jiang*  
    Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025.
@@ -20,7 +29,7 @@ My publication list can also be found at [Google Scholar](https://scholar.google
 
 1. **Watch Out for Your Guidance on Generation! Exploring Conditional Backdoor Attacks against Large Language Models**  
    *Jiaming He, Wenbo Jiang, Guanyu Hou, Wenshu Fan, **Rui Zhang**, Hongwei Li*  
-   AAAI Conference on Artificial Intelligence (AAAI), 2025.
+   AAAI Conference on Artificial Intelligence (AAAI), 2025, Oral.
 
 1. **Backdoor Attacks against Hybrid Classical-quantum Neural Networks**  
    *Ji Guo, Wenbo Jiang, **Rui Zhang**, Wenshu Fan, Jiachen Li, Guoming Lu, Hongwei Li*  
