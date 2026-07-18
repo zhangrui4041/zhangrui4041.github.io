@@ -18,7 +18,7 @@ Safety of Large Language Models (LLMs)**.
 
 ## Recent Updates
 
-- (2025.04) Our paper titled "Hidden Tail: Adversarial Attack for Stealthy Resource Consumption against Vision-Language Models" got accepted by IEEE TDSC.
+- (2026.04) Our paper titled "Hidden Tail: Adversarial Attack for Stealthy Resource Consumption against Vision-Language Models" got accepted by IEEE TDSC.
 
 - (2026.04) Our paper titled "The Art of (Mis)alignment: How Fine-Tuning Methods Effectively Misalign and Realign LLMs in Post-Training" got accepted by ACL Findings 2026.
 
