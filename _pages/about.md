@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hi, I am Rui Zhang. I am a Ph.D. student at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), supervised by [Prof. Hongwei Li](https://scholar.google.com.hk/citations?user=-o6u2gwAAAAJ&hl).
+Hi, I am Rui Zhang. I am currently a postdoctoral researcher at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), where I continue to work with [Prof. Hongwei Li](https://scholar.google.com.hk/citations?user=-o6u2gwAAAAJ&hl=en) and his research group. I received my Ph.D. from UESTC under the supervision of Prof. Hongwei Li.
 
 I was a visiting Ph.D. student at Nanyang Technological University (NTU, 2025-2026), working with [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/). 
 I feel fortunate to be mentored by [Yang Zhang](https://yangzhangalmo.github.io/).
